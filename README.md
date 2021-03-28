@@ -1,0 +1,1 @@
+Copy from https://github.com/ConSol/docker-headless-vnc-container
