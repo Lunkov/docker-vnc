@@ -1,5 +1,5 @@
 # Set Ubuntu base image
-FROM ubuntu:18.04
+FROM ubuntu:20.10
 
 # File Author / Maintainer
 MAINTAINER ANO "Digital Country"
